@@ -1,0 +1,43 @@
+# Site settings
+title: Achraf Belarif
+email: achraf.belarif@aol.com
+url: https://www.achrafbelarif.com
+description: "Software Enginer Student "
+repository: spydersy/ft_server
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#091109'
+  links: '#d8ecd7'
+
+# Footer settings
+footer: Your Website
+
+# "UA-NNNNNNNN-N"
+google_analytics: G-L68E9YQ3WE
+
+# resume pdf public link in google drive
+google-drive-resume-file-id: 1MDomIWwwfh1XaEB8VhtdWqxQwkuQt1qS
+# Social networks usernames
+social:
+  - title: github
+    url: https://github.com/spydersy
+  # - title: medium
+  #   url: https://medium.com/
+  - title: linkedin
+    url: https://www.linkedin.com/in/achrafbelarif/
+
+projects:
+  - title: "42Cursus-minishell"
+    venue-publication: The objective of this project is to create a simple shell like BASH.
+    url: https://github.com/spydersy/42Cursus-minishell
+  - title: "42Cursus-ft_server"
+    venue-publication: This is a System Administration subject. The objective of this project is to discover Docker and set up a web server.
+    url: https://github.com/spydersy/ft_server
+  - title: "42Cursus-ft_services"
+    venue-publication: Ft_services is an introduction to Kubernetes, cluster management and deployment with Kubernetes. The objective of this project is to virtualize a network and do "clustering".
+    url: https://github.com/spydersy/42Cursus-ft_services
+
+# Build settings
+markdown: kramdown
+permalink: pretty
