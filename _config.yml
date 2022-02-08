@@ -1,8 +1,8 @@
 # Site settings
 title: Achraf Belarif
 email: achraf.belarif@aol.com
-url: https://www.achrafbelarif.com
-description: "Software Enginer Student "
+url: https://www.belarif.me
+description: "Elève Ingénieure "
 repository: spydersy/spydersy.github.io
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -22,8 +22,6 @@ google-drive-resume-file-id: 1MDomIWwwfh1XaEB8VhtdWqxQwkuQt1qS
 social:
   - title: github
     url: https://github.com/spydersy
-  # - title: medium
-  #   url: https://medium.com/
   - title: linkedin
     url: https://www.linkedin.com/in/achrafbelarif/
 

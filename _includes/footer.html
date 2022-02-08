@@ -38,7 +38,7 @@
                 var status = xhr.status;
                 if (status === 200) {
                     console.log(xhr.response);
-                    document.getElementById("last_updated").innerHTML = "Last Updated: " + formatDate(new Date(xhr.response.commit.author.date)) + "<a href=\"" + xhr.response.html_url + "\" target=\"_blank\"> " + xhr.response.sha.substring(0, 7) + "</a>";
+                    document.getElementById("last_updated").innerHTML = "Dernière mise à jour: " + formatDate(new Date(xhr.response.commit.author.date)) + "<a href=\"" + xhr.response.html_url + "\" target=\"_blank\"> " + xhr.response.sha.substring(0, 7) + "</a>";
                 } else {
                     console.log("oops something went wrong");
                     document.getElementById("last_updated").innerHTML = "oops something went wrong";
