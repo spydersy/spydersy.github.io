@@ -28,15 +28,24 @@ social:
     url: https://www.linkedin.com/in/achrafbelarif/
 
 projects:
-  - title: "42Cursus-minishell"
+  - title: "42Cursus-ft_transcendence"
     venue-publication: The objective of this project is to create a simple shell like BASH.
     url: https://github.com/spydersy/42Cursus-minishell
-  - title: "42Cursus-ft_server"
-    venue-publication: This is a System Administration subject. The objective of this project is to discover Docker and set up a web server.
-    url: https://github.com/spydersy/ft_server
+  - title: "42Cursus-webserv"
+    venue-publication: The objective of this project is to create a simple shell like BASH.
+    url: https://github.com/spydersy/42Cursus-minishell
   - title: "42Cursus-ft_services"
     venue-publication: Ft_services is an introduction to Kubernetes, cluster management and deployment with Kubernetes. The objective of this project is to virtualize a network and do "clustering".
     url: https://github.com/spydersy/42Cursus-ft_services
+  - title: "42Cursus-ft_server"
+    venue-publication: This is a System Administration subject. The objective of this project is to discover Docker and set up a web server.
+    url: https://github.com/spydersy/ft_server
+  - title: "42Cursus-ft_containers"
+    venue-publication: The objective of this project is to create a simple shell like BASH.
+    url: https://github.com/spydersy/42Cursus-minishell
+  - title: "42Cursus-minishell"
+    venue-publication: The objective of this project is to create a simple shell like BASH.
+    url: https://github.com/spydersy/42Cursus-minishell
 
 # Build settings
 markdown: kramdown
