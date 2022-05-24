@@ -29,7 +29,7 @@ social:
 
 projects:
   - title: "42Cursus-ft_transcendence - In Progress . . ."
-    venue-publication: ft_transcendence is a onepage fullstack website where you can play pong with players among other things such as JWT / 2fa authentification, a chat, private messages, friends list, profiles, a match-making system, a spectating system and modifications to the pong game such as different background and gamemodes.
+    venue-publication: ft_transcendence is an onepage fullstack website provide a real-time multiplayer online Pong game, a chat (private/groupe messages), friend list, profiles, a match-making system, a spectating system, and game modifications (Themes, Gamemodes ...)
     url: https://github.com/spydersy/42Cursus-ft_transcendence
   - title: "42Cursus-webserv"
     venue-publication: This project is about writing an HTTP server in C++ 98 capable of processing HTTP requests.
