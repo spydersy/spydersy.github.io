@@ -28,7 +28,7 @@ social:
     url: https://www.linkedin.com/in/achrafbelarif/
 
 projects:
-  - title: "42Cursus-ft_transcendence - 🚧 In Progress 🚧"
+  - title: "42Cursus-ft_transcendence 🚧 In Progress 🚧"
     venue-publication: ft_transcendence is an onepage website provide a real-time multiplayer online Pong game, a chat (private/groupe messages), friend list, profiles, 42API-Aut/google 2fa, a match-making system, a spectating system, and game modifications
     url: https://github.com/spydersy/42Cursus-ft_transcendence
   - title: "42Cursus-ft_containers"
@@ -38,14 +38,11 @@ projects:
     venue-publication: This project is about writing an HTTP server in C++ 98 capable of processing HTTP requests.
     url: https://github.com/spydersy/42Cursus-webserv
   - title: "42Cursus-ft_services"
-    venue-publication: Ft_services is an introduction to Kubernetes, cluster management and deployment with Kubernetes. The objective of this project is to virtualize a network and do "clustering".
+    venue-publication: ft_services is an introduction to Kubernetes, cluster management and deployment with Kubernetes. The objective of this project is to virtualize a network and do "clustering".
     url: https://github.com/spydersy/42Cursus-ft_services
   - title: "42Cursus-ft_server"
     venue-publication: This is a System Administration subject. The objective of this project is to discover Docker and set up a web server.
     url: https://github.com/spydersy/ft_server
-  - title: "42Cursus-ft_containers"
-    venue-publication: The objective of this project is to create a simple shell like BASH.
-    url: https://github.com/spydersy/42Cursus-minishell
   - title: "42Cursus-minishell"
     venue-publication: The objective of this project is to create a simple shell like BASH.
     url: https://github.com/spydersy/42Cursus-minishell
