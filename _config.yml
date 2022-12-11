@@ -26,22 +26,22 @@ social:
     url: https://www.linkedin.com/in/achrafbelarif/
 
 projects:
-  - title: "42Cursus-ft_transcendence 🚧 In Progress 🚧"
-    venue-publication: ft_transcendence is an onepage website provide a real-time multiplayer online Pong game, chat (private/groupe messages), friend list, profiles, 42API-Aut/google 2fa, match-making system, and a spectating system
+  - title: "Ft_transcendence"
+    venue-publication: ft_transcendence is an onepage website provide a real-time multiplayer online Pong game, chat (private/groupe messages), friend list, profiles, 42API-Auth/google 2fa, match-making system, and a spectating system
     url: https://github.com/spydersy/OnePong
-  - title: "42Cursus-ft_containers"
+  - title: "Ft_containers"
     venue-publication: "ft_containers is an implementation of some C++ Standard Template Library(STL) Components : Containers and Iterators)"
     url: https://github.com/spydersy/42Cursus-ft_containers
-  - title: "42Cursus-webserv"
+  - title: "Webserv"
     venue-publication: This project is about writing an HTTP server in C++ 98 capable of processing HTTP requests.
     url: https://github.com/spydersy/42Cursus-webserv
-  - title: "42Cursus-ft_services"
+  - title: "Ft_services"
     venue-publication: ft_services is an introduction to Kubernetes, cluster management and deployment with Kubernetes. The objective of this project is to virtualize a network and do "clustering".
     url: https://github.com/spydersy/42Cursus-ft_services
-  - title: "42Cursus-ft_server"
+  - title: "Ft_server"
     venue-publication: This is a System Administration subject. The objective of this project is to discover Docker and set up a web server.
     url: https://github.com/spydersy/ft_server
-  - title: "42Cursus-minishell"
+  - title: "Minishell"
     venue-publication: The objective of this project is to create a simple shell like BASH.
     url: https://github.com/spydersy/42Cursus-minishell
 
