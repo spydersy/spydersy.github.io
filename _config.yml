@@ -17,20 +17,18 @@ footer: Your Website
 google_analytics: G-L68E9YQ3WE
 
 # resume pdf public link in google drive
-google-drive-resume-file-id: 1MDomIWwwfh1XaEB8VhtdWqxQwkuQt1qS
+google-drive-resume-file-id: 1GXIKHI9CfKTjOQutbG1o8K24bTSBmw53
 # Social networks usernames
 social:
   - title: github
     url: https://github.com/spydersy
-  # - title: medium
-  #   url: https://medium.com/
   - title: linkedin
     url: https://www.linkedin.com/in/achrafbelarif/
 
 projects:
   - title: "42Cursus-ft_transcendence 🚧 In Progress 🚧"
     venue-publication: ft_transcendence is an onepage website provide a real-time multiplayer online Pong game, chat (private/groupe messages), friend list, profiles, 42API-Aut/google 2fa, match-making system, and a spectating system
-    url: https://github.com/spydersy/42Cursus-ft_transcendence
+    url: https://github.com/spydersy/OnePong
   - title: "42Cursus-ft_containers"
     venue-publication: "ft_containers is an implementation of some C++ Standard Template Library(STL) Components : Containers and Iterators)"
     url: https://github.com/spydersy/42Cursus-ft_containers
