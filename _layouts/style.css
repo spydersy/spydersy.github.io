@@ -57,7 +57,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #d47c1e;
+    color: #d8ecd7;
 }
 
 .light {
@@ -110,7 +110,7 @@ a:focus {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a.active {
     outline: 0;
-    background-color: rgba(255,255,255,.3);
+    background-color: rgba(255, 0, 0, 0.3);
 }
 
 @media(min-width:767px) {
