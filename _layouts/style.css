@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
+ body {
     width: 100%;
     height: 100%;
     overflow-x: hidden;
@@ -334,7 +334,7 @@ a:focus {
     border: 1px solid {{ site.color.links }};
     outline: 0;
     color: {{ site.color.primary-dark }};
-    background-color: #ff0000;
+    background-color: {{ site.color.links }};
 }
 
 .list-group-item {
