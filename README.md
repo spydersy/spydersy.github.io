@@ -6,3 +6,8 @@ Personal-Website
 Powered by Jekyll, hosted on Github Pages
 
 Theme based on [Grayscale bootstrap theme ](https://github.com/startbootstrap/startbootstrap-grayscale)
+
+TODO :
+=========================
+
+- [ ] Write ABOUT ME Section
