@@ -10,4 +10,4 @@ Theme based on [Grayscale bootstrap theme ](https://github.com/startbootstrap/st
 TODO :
 =========================
 
-- [ ] Write ABOUT ME Section
+- [ ] About Section
