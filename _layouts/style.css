@@ -64,7 +64,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #d8ecd7;
+    color: #0dff00;
 }
 
 .light {
@@ -285,9 +285,9 @@ a:focus {
     font-size: 16px;
     width: 100%;
     padding: 50px 0;
-    color: #000;
+    color: #fff;
     background: url({{ "/img/projects-bg.jpg" | prepend: site.baseurl }}) no-repeat center center scroll;
-    background-color: rgba(0,0,0,.3);
+    background-color: rgba(255,255,255,.3);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
