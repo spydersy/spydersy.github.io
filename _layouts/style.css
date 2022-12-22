@@ -54,7 +54,7 @@ a {
     transition: all .2s ease-in-out;
 }
 
-second_color {
+.second_color {
     color: {{ site.color.links }};
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
