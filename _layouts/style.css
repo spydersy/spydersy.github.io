@@ -342,7 +342,7 @@ a:focus {
     background-color: transparent;
 }
 .list-group-item:hover{
-    background-color:  red !important;
+    background-color: rgba(255,255,255,.3) !important;
 }
 #force-white {
     color: #ffffff;
