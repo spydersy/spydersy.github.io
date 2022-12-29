@@ -48,16 +48,16 @@ p {
 }
 
 a {
-    /* color: {{ site.color.links }};
+    color: {{ site.color.links }};
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out; */
+    transition: all .2s ease-in-out;
 }
 
 a:hover,
 a:focus {
-    /* text-decoration: none;
-    color: #15b40c; */
+    text-decoration: none;
+    color: #15b40c;
 }
 
 .light {
@@ -341,7 +341,9 @@ a:focus {
     border: 1px solid {{ site.color.links }};
     background-color: transparent;
 }
-
+.list-group-item:hover{
+    background-color:  red;
+}
 #force-white {
     color: #ffffff;
 }
