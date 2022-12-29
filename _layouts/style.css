@@ -339,7 +339,7 @@ a:focus {
 
 .list-group-item {
     border: 1px solid {{ site.color.links }};
-    background-color: transparent;
+    /* background-color: transparent; */
 }
 
 #force-white {
